@@ -10,7 +10,7 @@ on:
       - reopened
       - edited
     paths:
-      - './workload/bicep/**.bicep'
+      - 'workload/bicep/**.bicep'
 
 env:
   github_user_name: 'github-actions'
